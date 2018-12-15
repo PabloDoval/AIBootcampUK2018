@@ -1,6 +1,6 @@
 # Global AI Bootcamp 2018 - London
 
-This repo holds the slide decks used at the different talks delivered as part of the Global AI Bootcamp 2018 at the London venue at the Imperial College, o 15th December 2018.
+This repo holds the slide decks used at the different talks delivered as part of the Global AI Bootcamp 2018 at the London venue at the Imperial College, on 15th December 2018.
 
 Thanks to all the authors!
 
